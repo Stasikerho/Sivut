@@ -6,6 +6,7 @@
         }
 		
 		p {
+ 	    text-align: center;
             font-family: 'mass';
             color: #f2f2f2;
 			text-shadow: 4px 4px 10px #11326f;
